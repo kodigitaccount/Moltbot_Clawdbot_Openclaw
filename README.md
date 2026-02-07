@@ -203,4 +203,7 @@ https://docs.openclaw.ai/
 Dark Reading coverage
 https://www.darkreading.com/application-security/openclaw-ai-runs-wild-business-environments
 
+Linkedin
+https://www.linkedin.com/news/story/openclaw-assistant-gains-popularity-raises-security-worries-6972340/
+
 
