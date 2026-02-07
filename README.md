@@ -1,9 +1,8 @@
 # Moltbot_Clawdbot_Openclaw
-# Open Claw Workshop 
+# Open Claw Workshop -- https://www.youtube.com/shorts/-yntG5fdMbM
 
 📌 OpenClaw: Adoption, Architecture, and Security Considerations
 📈 Rapid Adoption and Community Signal
-
 Over a short period, OpenClaw has experienced unusually rapid adoption for an open-source AI project.
 
 ⭐ 138,000+ GitHub stars
@@ -204,14 +203,4 @@ https://docs.openclaw.ai/
 Dark Reading coverage
 https://www.darkreading.com/application-security/openclaw-ai-runs-wild-business-environments
 
-If you want, I can also:
 
-✂️ Create a short “Security Notice” version
-
-📦 Split this into SECURITY.md
-
-🧭 Add a “Responsible Usage” section
-
-🧑‍⚖️ Rewrite in neutral enterprise compliance tone
-
-Just tell me what you want next.
