@@ -1,6 +1,10 @@
 # Moltbot_Clawdbot_Openclaw
 # Open Claw Workshop -- https://www.youtube.com/shorts/-yntG5fdMbM
 
+# Live workshop -- https://www.youtube.com/watch?v=QdznP9S1wS0
+
+
+
 📌 OpenClaw: Adoption, Architecture, and Security Considerations
 📈 Rapid Adoption and Community Signal
 Over a short period, OpenClaw has experienced unusually rapid adoption for an open-source AI project.
